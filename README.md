@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vector DB RAG Project
 
 ## Steps to Run
@@ -12,3 +13,6 @@
 
 4. Start app:
    streamlit run app.py
+=======
+# vector-rag-ai-assistant
+>>>>>>> d5e0d1a71b9a740a6de3dbe3ba1fb0651abdc881
