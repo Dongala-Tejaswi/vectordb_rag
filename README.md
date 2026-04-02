@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Vector DB RAG Project
 
 ## Steps to Run
@@ -16,3 +17,6 @@
 =======
 # vector-rag-ai-assistant
 >>>>>>> d5e0d1a71b9a740a6de3dbe3ba1fb0651abdc881
+=======
+# vectordb_rag
+>>>>>>> a95645f25dbf35d130b417ddda38cd012360e2c3
